@@ -43,4 +43,4 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
 # My rule
-DOMAIN-SUFFIX,go.tsinghpc.com
+DOMAIN,go.tsinghpc.com
