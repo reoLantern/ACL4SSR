@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,endnote.com
 DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,icevirtuallibrary.com
-DOMAIN-SUFFIX,ieee.org
+# DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,imf.org
 DOMAIN-SUFFIX,iop.org
 DOMAIN-SUFFIX,jamanetwork.com
